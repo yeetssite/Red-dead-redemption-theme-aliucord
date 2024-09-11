@@ -3,7 +3,8 @@
         "version": "1.0.0",
         "name": "Red Discord Redemption",
         "author": "itsyeetsup",
-        "license": "GPL-3.0"
+        "license": "GPL-3.0",
+        "updater": "https://github.com/yeetssite/Red-dead-redemption-theme-aliucord.git"
     },
     "background": {},
     "fonts": {
